@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Centered Book/Syllabus pages -->
+    <!-- Left page shadow -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M31,41 C31,41 41,39 54,44 L54,80 C41,75 31,77 31,77 Z" />
+    
+    <!-- Left page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,40 C32,40 42,38 54,43 L54,79 C42,74 32,76 32,76 Z" />
+    
+    <!-- Right page -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M76,40 C76,40 66,38 54,43 L54,79 C66,74 76,76 76,76 Z" />
+
+    <!-- AI Trend Upward Bolt (indicating predictive analytics and probability trends) -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M44,66 L55,49 L61,54 L71,40 L59,40 L63,44 L55,55 L49,50 Z" />
+
+    <!-- AI predictive accuracy Spark -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,28 L56,33 L61,34 L56,35 L54,40 L52,35 L47,34 L52,33 Z" />
+</vector>

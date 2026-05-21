@@ -1,0 +1,6 @@
+{
+  "name": "PYQ Predictor AI",
+  "description": "An AI-powered exam strategist, mentor, and PYQ analyst specifically designed for MBBS, NEET PG, UPSC, SSC, and state exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
